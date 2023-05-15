@@ -2,7 +2,7 @@
 FLUTTER_ROOT=/Users/grafcadigital/flutter
 FLUTTER_APPLICATION_PATH=/Users/grafcadigital/Documents/ujicoba
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=/Users/grafcadigital/Documents/ujicoba/lib/main2.dart
+FLUTTER_TARGET=/Users/grafcadigital/Documents/ujicoba/lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=0.0.1
 FLUTTER_BUILD_NUMBER=1

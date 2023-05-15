@@ -3,7 +3,7 @@
 export "FLUTTER_ROOT=/Users/grafcadigital/flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/grafcadigital/Documents/ujicoba"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=/Users/grafcadigital/Documents/ujicoba/lib/main2.dart"
+export "FLUTTER_TARGET=/Users/grafcadigital/Documents/ujicoba/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=0.0.1"
 export "FLUTTER_BUILD_NUMBER=1"
